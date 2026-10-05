@@ -1,5 +1,5 @@
 bakiye=10000
-print("İrem Bankasına Hoşgeldiniz..")
+print("ABC Bankasına Hoşgeldiniz..")
 print("Yapacağınız işlemi seçiniz..")
 islem=int(input("1- Bakiye GÖrüntüle 2- Para Yatır 3- Para Çek"))
 

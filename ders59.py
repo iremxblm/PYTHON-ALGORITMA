@@ -1,0 +1,7 @@
+dosya = open("ogrenci.txt","r",encoding="utf-8")
+print(dosya.readline())
+print(dosya.readline())
+print(dosya.readline())
+print(dosya.readline())
+dosya.close()
+print("Okuma İşlemi Tamamlandı.......")

@@ -1,0 +1,6 @@
+dosya=open("ogrenci.txt","a",encoding="utf-8")
+dosya.write("Ahmet\n")
+dosya.write("Mehmet\n")
+dosya.write("Kasım\n")
+dosya.close()
+print("Dosya Yazma İşlemi Bitti")
